@@ -23,17 +23,13 @@
           <h1>You hold the key, that unlocks your destiny.</h1>
         </header>
         <section id="downloads" class="clearfix">
-          {% if site.show_downloads %}
-          <a href="https://www.dropbox.com/s/mlq1yezmx2bmao3/Hyperstage%20Records.zip?dl=1" id="download-zip" class="button"><span>Windows</span></a>
-          <a href="{{ site.github.tar_url }}" id="download-tar-gz" class="button"><span>MacOS</span></a>
-          <style>  
-div {  
-  border: 3px solid blue;  
-  padding-right: 250px;  
-  background-color: yellow;
-	<a href="{{ site.github.tar_url }}" id="download-tar-gz" class="button"><span>MacOS</span></a>
-}
-          {% endif %}
+	  <style>
+	  padding-right: 250px;
+            {% if site.show_downloads %}
+            <a href="https://www.dropbox.com/s/mlq1yezmx2bmao3/Hyperstage%20Records.zip?dl=1" id="download-zip" class="button"><span>Windows</span></a>
+            <a href="{{ site.github.tar_url }}" id="download-tar-gz" class="button"><span>MacOS</span></a>
+	  </style>
+            {% endif %}
 	{% if site.github.public %}
 	  {% if site.github.is_project_page %}
           <a href="{{ site.github.repository_url }}" id="view-on-github" class="button"><span>View on GitHub</span></a>
