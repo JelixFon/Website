@@ -1,6 +1,3 @@
-title: "Key Quest - Home"
-author: "Fontastic Games
-description: "Home Page to the Key Quest game."
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/JelixFon/KeyQuest/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
