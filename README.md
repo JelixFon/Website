@@ -6,10 +6,8 @@
 
 ---
 
-[![View on GitHub](https://user-images.githubusercontent.com/95459053/188253738-b10d9e54-febe-415d-a217-2f9175211c25.png)](https://www.youtube.com/watch?v=N9g1WHfZgaM&ab_channel=NotGoldArcGameplay)
+[![View on GitHub](https://user-images.githubusercontent.com/95459053/188253738-b10d9e54-febe-415d-a217-2f9175211c25.png)](https://github.com/FilipeCollura/Key-Quest)
 
 ---
 
-[![Subscribe to Jelix Fon](https://user-images.githubusercontent.com/95459053/188253903-7141212e-3b58-4ec1-87be-305821609546.png)](https://www.youtube.com/watch?v=N9g1WHfZgaM&ab_channel=NotGoldArcGameplay)
-
----
+[![Subscribe to Jelix Fon](https://user-images.githubusercontent.com/95459053/188253903-7141212e-3b58-4ec1-87be-305821609546.png)](https://www.youtube.com/c/JelixFon)
